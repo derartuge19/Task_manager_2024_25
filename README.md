@@ -1,8 +1,8 @@
 # Task_manager_2024_25
 
-|Student Name     |  ID|
-|1.Blen Nigussie    UGR/3480/15|
-|2.Derartu Nigatu   UGR/5597/15|
+-Student Name           ID
+1.Blen Nigussie    UGR/3480/15|
+2.Derartu Nigatu   UGR/5597/15|
 |3.Eden Zewdu       UGR/9956/15|
 |4.Eyob Fikre       UGR/9963/15|
 |5.Michael Teshome  ATR/1408/11|
