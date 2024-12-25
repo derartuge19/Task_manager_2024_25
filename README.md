@@ -1,23 +1,14 @@
-# Task_manager_2024_25
-
-# Project Title: Your Project Title
+# Project Title: Task_manager
 
 ## Group Members
-- **Full Name 1** - ID: 123456
-- **Full Name 2** - ID: 234567
-- **Full Name 3** - ID: 345678
-- **Full Name 4** - ID: 456789
-- **Full Name 5** - ID: 567890
-
--Student Name           ID
-1.Blen Nigussie    UGR/3480/15|
-2.Derartu Nigatu   UGR/5597/15|
-|3.Eden Zewdu       UGR/9956/15|
-|4.Eyob Fikre       UGR/9963/15|
-|5.Michael Teshome  ATR/1408/11|
+- **Blen Nigussie** - ID: UGR/3480/15
+- **Derartu Nigatu** - ID:  UGR/5597/15
+- **Eden Zewdu** - ID: UGR/9956/15
+- **Eyob Fikre ** - ID: UGR/9963/15
+- **Michael Teshome ** - ID: ATR/1408/11
 
 
-Task Manager
+#Task Manager
 The Task Manager is a web-based application designed to help users efficiently manage their tasks, whether personal or professional. It provides a streamlined platform for creating, updating, and tracking tasks while offering flexibility and ease of use. This application is ideal for individuals who need a simple yet effective tool to organize their day-to-day activities and stay productive.
 
 Key Features
